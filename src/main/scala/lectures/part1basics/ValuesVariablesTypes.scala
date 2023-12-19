@@ -16,7 +16,7 @@ object ValuesVariablesTypes extends App {
   val anInt: Int = x
   val aShort: Short = 4325
   val aLong: Long = 2132543425L
-  val aFloat: Float - 2.0f
+  val aFloat: Float = 2.0f
   val aDouble: Double = 3.14
 
   // variables
